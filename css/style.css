@@ -1,0 +1,10 @@
+.one {position:absolute; left:+500px; top:50px; width:300px; height:500px; border: 6px solid rgb(255, 0, 0);}
+.two {position:absolute; left:+830px; top:50px; width:300px; height:170px; border: 6px solid rgb(0, 255, 115);}
+.three {position:absolute; left:+830px; top:250px; width:300px; height:400px; border: 6px solid rgb(255, 238, 0);}
+.four {position:absolute; left:+500px; top:580px; width:300px; height:285px; border: 6px solid rgb(0, 119, 255);}
+.five {position:absolute; left:+830px; top:680px; width:300px; height:185px; border: 6px solid rgb(0, 225, 255);}
+.oneone {position:relative; left:+30px; color:rgb(255, 0, 0); font-family: sans-serif; font-size: 200%;}
+.twotwo {position:relative; left:+30px; color:rgb(0, 255, 115); font-family: sans-serif; font-size: 200%;}
+.threethree {position:relative; left:+30px; color:rgb(255, 238, 0); font-family: sans-serif; font-size: 200%;}
+.fourfour {position:relative; left:+30px; color:rgb(0, 119, 255); font-family: sans-serif; font-size: 200%;}
+.fivefive {position:relative; left:+30px; color:rgb(0, 225, 255); font-family: sans-serif; font-size: 200%;}
